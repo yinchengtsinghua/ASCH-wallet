@@ -1,0 +1,22 @@
+{
+  "name": "privatekey_sharding_recovery",
+  "version": "1.0.0",
+  "description": "Increases wallet/account storage security! PrivateKey Disaster recovery. Covers loss of private key and reduces central point of failure ie (theft, loss of private key).",
+  "main": "ethPrivKeyRecovery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quixxi/PrivateKey_Sharding_Recovery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quixxi/PrivateKey_Sharding_Recovery/issues"
+  },
+  "homepage": "https://github.com/quixxi/PrivateKey_Sharding_Recovery#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
